@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "471400779915",
+    "firebase_url": "https://futsalpro-8fcf7-default-rtdb.firebaseio.com",
+    "project_id": "futsalpro-8fcf7",
+    "storage_bucket": "futsalpro-8fcf7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:471400779915:android:c3e882b1917bda4f22c48e",
+        "android_client_info": {
+          "package_name": "com.futsalpro"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDd_ZtghkHP4Y7nv4QTJxQ4zOU1AP1E9AI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
