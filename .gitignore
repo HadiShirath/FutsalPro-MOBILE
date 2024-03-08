@@ -66,5 +66,12 @@ yarn-error.log
 /coverage
 
 #folder config
+<<<<<<< HEAD
 /src/config/Firebase/index2.js
 /src/utils/constant/index2.js
+=======
+/src/config/Firebase/index.js
+# /src/config/Firebase/index2.js
+# /src/utils/constant/index2.js
+/src/utils/constant/index.js
+>>>>>>> 0d1daf7 (futsalpro-mobile)

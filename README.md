@@ -10,6 +10,7 @@ First, you will need to start **Metro**, the JavaScript _bundler_ that ships _wi
 
 To start Metro, run the following command from the _root_ of your React Native project:
 
+<<<<<<< HEAD
 ```bash
 # using npm
 npm start
@@ -19,6 +20,9 @@ yarn start
 ```
 
 ## Step 2: Start your Application
+=======
+Featured :
+>>>>>>> 0d1daf7 (futsalpro-mobile)
 
 Let Metro Bundler run in its _own_ terminal. Open a _new_ terminal from the _root_ of your React Native project. Run the following command to start your _Android_ or _iOS_ app:
 
