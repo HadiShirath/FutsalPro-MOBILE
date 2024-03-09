@@ -4,7 +4,7 @@ Build projects using React Native Framework
 
 PREVIEW
 
-![Contoh](./preview/FutsalPro.jpg)
+![Contoh](./preview/FutsalPro-Mobile.jpg)
 ![Contoh](./preview/Page-1.jpg)
 ![Contoh](./preview/Page-2.jpg)
 ![Contoh](./preview/Page-3.jpg)
